@@ -1,5 +1,3 @@
-
-
 n = input("enter a string : ")
 temp = n
 reverse = ""
