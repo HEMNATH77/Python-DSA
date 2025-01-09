@@ -1,4 +1,4 @@
-from numpy.random import poisson
+
 
 n = input("enter a string : ")
 temp = n
