@@ -1,6 +1,6 @@
 #gcd + lcm
 def hcf(a,b):
-    if b ==0:
+    if b == 0:
         return a
     return hcf(b,a % b)
 def lcm(a,b):
