@@ -3,7 +3,7 @@ n =[1,2,3,4,5]
 a = len(n)
 largest = -1
 second_largest = -1
-third_largest = -1
+
 
 for i in range(a):
     if n[i]> largest :
