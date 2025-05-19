@@ -1,5 +1,5 @@
 def missing(a):
-    n = len(a) + 1
+    n = len(a)
     total = n * (n +1) // 2
     sum = 0
     for i in a:
